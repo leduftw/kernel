@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+!/h
+!/src
+!/scheduler
+!/javni_test_2019
+!*.cpp
+!*.CPP
+!*.h
+!*.H
+!*.lib
+!*.LIB
+!Statement.pdf
